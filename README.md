@@ -1,5 +1,5 @@
 
-#Andfix热修复原理和流程分析
+Andfix热修复原理和流程分析
 
 主要为了更好的了解Andfix实现原理，干脆直接模拟Andfix做个热修复的demo。
 
